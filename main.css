@@ -1,0 +1,120 @@
+body {
+  margin: 0px;
+}
+nav {
+  font-family: 'Raleway', serif;
+  float: right;
+  margin: 0px;
+}
+ul {
+    color: white;
+    list-style-type: none;
+    font-family: 'Raleway', serif;
+    margin-top: 10px;
+  }
+header {
+  height: 34px;
+  background-color: #92E0E5;
+  margin: 0px;
+}
+li {
+    display: inline;
+    margin-right: 20px;
+  }
+
+#dog-logo {
+  float: left;
+  margin-top: 2px;
+  padding-left: 25px;
+}
+/* nav img {
+  float: left;
+} */
+#top-section {
+  background-image: url("images/dog-party-assets/park.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  margin-top: 0px;
+  width: 100%;
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+}
+h1 {
+  padding: 25px;
+  margin: 0px auto;
+  text-align: center;
+}
+  button {
+    border: 3px solid #3E8DA7;
+    background-color: white;
+    color: #3E8DA7;
+    font-family: 'Raleway', sans-serif;
+    margin-bottom: 20px;
+    font-size: 15px;
+  }
+#top-section img {
+    display: block;
+    margin: auto;
+    border: 2px solid #3E8DA7;
+    border-radius: 50%;
+}
+#top-button {
+  margin-top: 20px;
+}
+/* font is in google - railway */
+.bottom-dogs {
+  display: inline-block;
+  width: 33%;
+  float: left;
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+  background-color: white;
+  margin-bottom: 40px;
+  /*font-size: 12px;
+  why is this being such a dick? */
+}
+#middle-area {
+  background-color: white;
+  font-family: 'Raleway', serif;
+  margin-right: 0px;
+  margin-bottom: 60px;
+}
+.bottom-dogs img {
+  border-radius: 50%;
+  margin: auto;
+  border: 2px solid #3E8DA7;
+  width: 160px;
+}
+figcaption {
+  margin-bottom: 20px;
+}
+
+footer {
+  color: white;
+  text-align: center;
+  clear: both;
+}
+.sociallinks {
+  margin-left: 50px;
+}
+a:link {
+  color: white;
+  text-decoration: none;
+}
+#last-button {
+  margin-bottom: 1px;
+}
+
+#bottom {
+  background-color: #3F8DA7;
+  font-family: 'Raleway', sans-serif;
+  font-size: 10pt;
+  margin-top: 30px;
+  clear: both;
+}
+#github {
+  text-decoration: underline;
+}
+p {
+  text-align: center;
+}
